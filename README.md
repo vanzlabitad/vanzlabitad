@@ -6,7 +6,7 @@
 https://www.instagram.com/_vanz_labitad_/
 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I listen to K-pop & own an aquarium with koi fish!
+- 
 
 <!---
 Vanz23-23/Vanz23-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

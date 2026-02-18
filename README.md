@@ -3,7 +3,6 @@
 - 🌱 I’m currently studying Neuroscience at The University of Sussex and I'll be going into my 2nd year
 - 💞️ I’m looking to collaborate on ... I have no clue
 - 📫 How to reach me 
-https://www.instagram.com/_vanz_labitad_/
 
 - 😄 Pronouns: He/him
 - 

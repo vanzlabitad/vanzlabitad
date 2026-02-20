@@ -1,5 +1,13 @@
+<!--
+    If you're reading the raw markdown: hi.
+    🍎 Reveluv. Yes, this is intentional.
+    Definitive ranking: Perfect Velvet > Chill Kill > The Red
+    Favourite songs: Kingdom Come & Automatic.
+    Taste: immaculate.
+-->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Vanz%20Labitad&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Computational%20Neuroscience%20%E2%80%94%20University%20of%20Sussex&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0000,50:8B0000,100:1a0000&height=220&section=header&text=Vanz%20Labitad&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Computational%20Neuroscience%20%E2%80%94%20University%20of%20Sussex&descAlignY=60&descColor=ff9999&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -23,6 +31,8 @@ Building reproducible pipelines that say what the data actually shows.
 
 Outside the lab, I build computational projects at the intersection of **neuroscience, pharmacology, and data engineering** — with a consistent emphasis on being honest about what the numbers actually mean.
 
+> *"I'm on my way to the kingdom come."* — Red Velvet
+
 <br/>
 
 ---
@@ -33,28 +43,28 @@ Outside the lab, I build computational projects at the intersection of **neurosc
 
 **Languages & Analysis**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-A00000?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-B22222?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Data & Visualisation**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-8B0000?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-A00000?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-B22222?style=for-the-badge&logo=scipy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-8B0000?style=for-the-badge&logo=python&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-A00000?style=for-the-badge&logo=r&logoColor=white)
 
 **Imaging & EM Tools**
 
-![ImageJ](https://img.shields.io/badge/FIJI%2FImageJ-00A86B?style=for-the-badge&logoColor=white)
-![WebKnossos](https://img.shields.io/badge/WebKnossos-FF6B35?style=for-the-badge&logoColor=white)
+![ImageJ](https://img.shields.io/badge/FIJI%2FImageJ-B22222?style=for-the-badge&logoColor=white)
+![WebKnossos](https://img.shields.io/badge/WebKnossos-8B0000?style=for-the-badge&logoColor=white)
 
 **Infrastructure**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-A00000?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-B22222?style=for-the-badge&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-8B0000?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -129,10 +139,10 @@ If you're hiring or want to collaborate: reach out below.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanzlabitad/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanz.labitad/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanzlabitad23@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vanz23-23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanzlabitad/)
+[![Instagram](https://img.shields.io/badge/Instagram-A00000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanz.labitad/)
+[![Email](https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanzlabitad23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vanz23-23)
 
 </div>
 
@@ -142,23 +152,6 @@ If you're hiring or want to collaborate: reach out below.
 <sub>Powered by caffeine and Red Velvet b-sides.</sub>
 </div>
 
-<!--
-    If you're reading the raw markdown: hi.
-    🍎 Reveluv. Yes, this is intentional.
-
-    Definitive ranking: Perfect Velvet > Chill Kill > The Red
-    Favourite songs: Kingdom Come & Automatic.
-    Taste: immaculate.
-    Listen to Red Velvet, Aespa, Tawyeon, Twice!
--->
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8B0000,100:0f0000&height=120&section=footer" width="100%"/>
 </div>
-
-
-
-<!---
-Vanz23-23/Vanz23-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

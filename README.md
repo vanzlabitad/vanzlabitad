@@ -28,9 +28,9 @@ Building reproducible pipelines that say what the data actually shows.
 
 ## 🔬 About
 
-**3rd-year MSci Neuroscience student** at the **University of Sussex** *(graduating Summer 2027)*, currently embedded in the **Baden Lab** doing hands-on zebrafish retinal connectomics. Right now, I'm actively reconstructing and comparing the 3D morphology of **monostratifying bipolar cell subtypes** across dorsal and ventral retinal regions using serial-section electron microscopy — the kind of work where your unit of analysis is measured in nanometres and your sample size is hand-annotated.
+**3rd year MSci Neuroscience student** at the **University of Sussex** *(graduating Summer 2027)*, currently under the **Baden Lab** doing hands on zebrafish retinal connectomics. Right now, I'm actively reconstructing and comparing the 3D morphology of **monostratifying bipolar cell subtypes** across dorsal and ventral retinal regions using serial section electron microscopy, the kind of work where your unit of analysis is measured in nanometres and your sample size is hand-annotated.
 
-Outside the lab, I build computational projects at the intersection of **neuroscience, pharmacology, and data engineering** — with a consistent emphasis on being honest about what the numbers actually mean.
+Outside the lab, I want to build more projects at the intersection of **neuroscience, pharmacology, and data engineering**. With a consistent emphasis on being honest about what the numbers actually mean.
 
 > *"There were hard times and slumps, but I never avoided them. I believe that if I didn't go through those periods, I wouldn't be here right now."* — Kang Seulgi, Red Velvet
 
@@ -91,7 +91,7 @@ EM-based 3D morphometric analysis of monostratifying bipolar cells across dorsal
 
 ### 💊 FDA FAERS Adverse Event Analysis
 
-Pharmacovigilance pipeline on the FDA's spontaneous reporting database. Built SQLite from raw ASCII, applied Reporting Odds Ratios to show **SSRIs don't disproportionately signal suicidal ideation** — raw counts were misleading. The stats say what they say.
+Pharmacovigilance pipeline on the FDA's spontaneous reporting database. Built SQLite from raw ASCII, applied Reporting Odds Ratios to show **SSRIs don't disproportionately signal suicidal ideation** The raw counts were misleading. The stats say what they say.
 
 `Python` `SQLite` `SQL` `SciPy` `Seaborn`
 
@@ -111,9 +111,9 @@ Fully reproducible pipeline: REST API → ontology traversal → aggregation →
 
 ### 🔭 What's Next
 
-Currently in my **3rd year**, actively working on my dissertation. One more year to go — graduating **Summer 2027**.
+Currently in my **3rd year**, actively working on my dissertation 🥹. One more year to go! I graduated **Summer 2027**.
 
-Open to **graduate R&D and data science roles** in pharma, biotech, and computational biology — particularly roles involving quantitative analysis, imaging data, or scientific software.
+Open to **graduate R&D and data science roles** in pharma, biotech, and neuroscience,particularly roles involving quantitative analysis, imaging data, or scientific software.
 
 If you're hiring or want to collaborate: reach out below.
 
@@ -127,10 +127,10 @@ If you're hiring or want to collaborate: reach out below.
 
 ## 📍 Currently
 
-- 🔬 **3rd year** — actively reconstructing 3D morphology of bipolar cell subtypes in the Baden Lab
-- 📝 Dissertation in progress — regional morphological specialisation of bipolar cells in larval zebrafish retina
-- 🎓 Graduating **Summer 2027** — open to graduate R&D / data science roles *(pharma, biotech, computational biology)*
-- 🌍 Based in UK — open to London and beyond
+- 🔬 **3rd year** : actively reconstructing 3D morphology of bipolar cell subtypes in the Baden Lab & writing dissertation drafts
+- 📝 Dissertation in progress : regional morphological specialisation of bipolar cells in larval zebrafish retina - I've got one more month left 😮‍💨
+- 🎓 Graduating **Summer 2027** : open to graduate R&D / data science roles *(pharma, biotech, neuroscience)*
+- 🌍 Based in UK : open to London and beyond
 
 <br/>
 

@@ -1,13 +1,14 @@
 <!--
-    If you're reading the raw markdown: hi.
+    If you're reading the raw markdown: Hello!.
     🍎 Reveluv. Yes, this is intentional.
     Definitive ranking: Perfect Velvet > Chill Kill > The Red
     Favourite songs: Kingdom Come & Automatic.
+    Listen to Red velvet!
     Taste: immaculate.
 -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0000,50:8B0000,100:1a0000&height=220&section=header&text=Vanz%20Labitad&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Computational%20Neuroscience%20%E2%80%94%20University%20of%20Sussex&descAlignY=60&descColor=ff9999&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0000,50:8B0000,100:1a0000&height=220&section=header&text=Vanz%20Labitad&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Msci%20Neuroscience%20%E2%80%94%20University%20of%20Sussex&descAlignY=60&descColor=ff9999&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -31,7 +32,7 @@ Building reproducible pipelines that say what the data actually shows.
 
 Outside the lab, I build computational projects at the intersection of **neuroscience, pharmacology, and data engineering** — with a consistent emphasis on being honest about what the numbers actually mean.
 
-> *"I'm on my way to the kingdom come."* — Red Velvet
+> *"There were hard times and slumps, but I never avoided them. I believe that if I didn't go through those periods, I wouldn't be here right now."* — Kang Seulgi, Red Velvet
 
 <br/>
 

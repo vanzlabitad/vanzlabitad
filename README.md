@@ -152,7 +152,12 @@ If you're hiring or want to collaborate: reach out below.
 </div>
 
 <br/>
-"There were hard times and slumps, but I never avoided them. I believe that if I didn't go through those periods, I wouldn't be here right now." Kang Seulgi, Red Velvet
+<div align="center">
+"There were hard times and slumps, but I never avoided them. I believe that if I didn't go through those periods, I wouldn't be here right now." 
+   <div align="center"> Kang Seulgi
+   <div align="center">
+   RV
+
 
 <div align="center">
 <sub>Powered by caffeine and Red Velvet b-sides.</sub>

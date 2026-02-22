@@ -1,7 +1,7 @@
 <!--
     If you're reading the raw markdown: Hello!.
     🍎 Reveluv. Yes, this is intentional.
-    Definitive ranking: Perfect Velvet > Chill Kill > The Red
+    Definitive albumn ranking: Perfect Velvet > Chill Kill > The Red
     Favourite songs: Kingdom Come & Automatic.
     Listen to Red velvet!
     Trust me!
@@ -147,7 +147,6 @@ If you're hiring or want to collaborate: reach out below.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanzlabitad/)
 [![Instagram](https://img.shields.io/badge/Instagram-A00000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanz.labitad/)
 [![Email](https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanzlabitad23@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vanz23-23)
 
 </div>
 

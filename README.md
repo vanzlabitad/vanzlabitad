@@ -1,10 +1,10 @@
 <!--
-    If you're reading the raw markdown: Hello!.
-    🍎 Reveluv. Yes, this is intentional.
+    If you're reading the raw markdown:
+    Hello!
+    🍎  Reveluv. Yes, this is intentional.
     Definitive albumn ranking: Perfect Velvet > Chill Kill > The Red
-    Favourite songs: Kingdom Come & Automatic.
-    Listen to Red velvet!
-    Trust me!
+    Favourite songs: Kingdom Come, Automatic, Be Natural & Heaven.
+    Listen to Red velvet, Trust me!
 -->
 
 <div align="center">
@@ -30,7 +30,7 @@ Building reproducible pipelines that say what the data actually shows.
 
 **3rd year MSci Neuroscience student** at the **University of Sussex** *(graduating Summer 2027)*, currently under the **Baden Lab** doing hands on zebrafish retinal connectomics. Right now, I'm actively reconstructing and comparing the 3D morphology of **monostratifying bipolar cell subtypes** across dorsal and ventral retinal regions using serial section electron microscopy, the kind of work where your unit of analysis is measured in nanometres and your sample size is hand-annotated.
 
-Outside the lab, I want to build more projects at the intersection of **neuroscience, pharmacology, and data engineering**. With a consistent emphasis on being honest about what the numbers actually mean.
+Outside the lab, I want to build more projects at the intersection of **neuroscience, pharmacology, and data engineering**. With a emphasis on being honest about what the numbers actually mean.
 
 <br/>
 
@@ -85,7 +85,7 @@ EM-based 3D morphometric analysis of monostratifying bipolar cells across dorsal
 
 ### 🔭 What's Next
 
-Currently in my **3rd year**, actively working on my dissertation. One more year to go! I graduated **Summer 2027**.
+Currently in my **3rd year**, actively working on my dissertation. One more year to go! I graduated **Summer 2027**. I also plan to do another project during my summer break not sure what I would work on.
 
 Open to **graduate R&D and data science roles** in pharma, biotech, and neuroscience,particularly roles involving quantitative analysis, imaging data, or scientific software.
 

@@ -76,7 +76,7 @@ Outside the lab, I want to build more projects at the intersection of **neurosci
 
 EM-based 3D morphometric analysis of monostratifying bipolar cells across dorsal and ventral retinal regions. Dual-annotator design. Key finding: **ventral S4 cells show significantly wider terminals** (Cohen's *d* = −3.12, *p* < .001), consistent with topographic functional specialisation.
 
-`Python` `SciPy` `Seaborn` `WebKnossos` `STL mesh`
+`Python` `SciPy`  `WebKnossos` `STL mesh`
 
 
 

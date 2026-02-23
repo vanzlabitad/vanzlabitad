@@ -44,14 +44,12 @@ Outside the lab, I want to build more projects at the intersection of **neurosci
 
 ![Python](https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-A00000?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-B22222?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Data & Visualisation**
 
 ![Pandas](https://img.shields.io/badge/Pandas-8B0000?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-A00000?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-B22222?style=for-the-badge&logo=scipy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-8B0000?style=for-the-badge&logo=python&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-A00000?style=for-the-badge&logo=r&logoColor=white)
 
 **Imaging & EM Tools**
@@ -59,11 +57,7 @@ Outside the lab, I want to build more projects at the intersection of **neurosci
 ![ImageJ](https://img.shields.io/badge/FIJI%2FImageJ-B22222?style=for-the-badge&logoColor=white)
 ![WebKnossos](https://img.shields.io/badge/WebKnossos-8B0000?style=for-the-badge&logoColor=white)
 
-**Infrastructure**
 
-![Git](https://img.shields.io/badge/Git-A00000?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-B22222?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-8B0000?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -84,31 +78,7 @@ EM-based 3D morphometric analysis of monostratifying bipolar cells across dorsal
 
 `Python` `SciPy` `Seaborn` `WebKnossos` `STL mesh`
 
-</td>
-<td width="50%" valign="top">
 
-### 💊 FDA FAERS Adverse Event Analysis
-
-Pharmacovigilance pipeline on the FDA's spontaneous reporting database. Built SQLite from raw ASCII, applied Reporting Odds Ratios to show **SSRIs don't disproportionately signal suicidal ideation** The raw counts were misleading. The stats say what they say.
-## Key Result
-Raw FAERS counts suggest SSRIs report more suicidal ideation than SNRIs.
-After prescription-normalised disproportionality analysis:
-
-→ ROR = 0.96 (95% CI [0.64–1.45])
-→ No detectable safety signal difference.
-
-`Python` `SQLite` `SQL` `SciPy` `Seaborn`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Allen Brain Atlas Expression Pipeline
-
-Fully reproducible pipeline: REST API → ontology traversal → aggregation → statistical testing → visualisation. Recovers known neurotransmitter distributions programmatically. Honest about what it is — **replication with rigorous uncertainty quantification**, not novelty claims.
-
-`Python` `REST API` `Kruskal-Wallis` `Bootstrap CI` `Seaborn`
 
 </td>
 <td width="50%" valign="top">

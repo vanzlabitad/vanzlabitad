@@ -74,7 +74,7 @@ Outside the lab, I want to build more projects at the intersection of **neurosci
 ### 🐟 Zebrafish Retinal Connectomics
 *Dissertation — Baden Lab, University of Sussex*
 
-EM-based 3D morphometric analysis of monostratifying bipolar cells across dorsal and ventral retinal regions. Dual-annotator design. Key finding: **ventral S4 cells show significantly wider terminals** (Cohen's *d* = −3.12, *p* < .001), consistent with topographic functional specialisation.
+EM-based 3D morphometric analysis of monostratifying bipolar cells across dorsal and ventral retinal regions. Dual-annotator design. Key finding: **ventral S4 cells show significantly wider terminals**. Project still in progress
 
 `Python` `SciPy`  `WebKnossos` `STL mesh`
 
